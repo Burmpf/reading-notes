@@ -11,3 +11,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 1 Notes- Markdown](102/mardown-notes.md)
 * [Class 2 Notes- The Coders Computer](102/day1class2.md)
 * [Class 3 Notes- Revisions and the Cloud](102/day2class1.md)
+* [Class 4 Notes- HTML and page structure](102/day2class2.md)
