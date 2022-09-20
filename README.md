@@ -1,13 +1,6 @@
-# reading-notes
-My reading notes journal for Code Fellows
+# Reading Notes For Class 102
 
-**Growth Mindset**- Growth mindset is believing that it is possible to learn and not be restricted by your thoughts of how snart or talented you are. 
-
-Reminder to myself:
- 1. Grind daily. Its hard but it'll be worth
- 2. Never stop, never stopping 
- 3. "*If you had one shot, one oppertunity, to seize everything you ever wanted, in one moment, would you capture it or just it slip?*"-Eminem 
- 
+ ## ABOUT ME
  ![20200223_142105_IMG_0150 pt2](https://user-images.githubusercontent.com/108432978/191093711-737729fe-ab9c-4e25-8ccf-b2de102d12e6.png)  
 *This image is from a few years ago. Back when I had hair!*
 
