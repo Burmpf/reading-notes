@@ -22,3 +22,4 @@ document.write("Hello ", name);
 </script>
   
 -you can do if/else to give options to prompts
+- you can use the shortcut ctrl + / to comment out a line of code
