@@ -14,5 +14,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 4 Notes- HTML and page structure](102/day2class2.md)
 * [Class 5 Notes- CSS](102/day3class1.md)
 * [Class 6 Notes- Javascript](102/day3class2.md)
-* [Class 7 Notes- Programing with Javascript](102/day2class1.md)
-* [Class 8 Notes- Operators and Loops](102/day2class2.md)
+* [Class 7 Notes- Programing with Javascript](102/day4class1.md)
+* [Class 8 Notes- Operators and Loops](102/day4class2.md)
