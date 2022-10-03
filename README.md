@@ -7,6 +7,7 @@
 Hello! My name is Keyan and if youre here, than you're here to see how my coding journey is coming! I started my adult journey as an infantry rifleman in the Marine Corps and I am now on the road to be the best developer and web 3 participant I can be! You can find my work [HERE](https://github.com/Burmpf)!
 
 ## Table of Contents
+### 102
 * [The Growth Mindset](102/growth-mindset.md)
 * [Class 1 Notes- Markdown](102/mardown-notes.md)
 * [Class 2 Notes- The Coders Computer](102/day1class2.md)
@@ -16,3 +17,6 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 6 Notes- Javascript](102/day3class2.md)
 * [Class 7 Notes- Programing with Javascript](102/day4class1.md)
 * [Class 8 Notes- Operators and Loops](102/day4class2.md)
+
+### 201
+*
