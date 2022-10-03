@@ -19,4 +19,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 8 Notes- Operators and Loops](102/day4class2.md)
 
 ### 201
-*
+* [Class 1 notes- basic HTML, CSS, and JS](102/201class1.md)
