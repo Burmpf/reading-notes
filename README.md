@@ -20,3 +20,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 
 ### 201
 * [Class 1 Notes- Basic HTML, CSS, and JS](102/201class1.md)
+* 
+* [Class 2 Notes- HTML Lists, CSS Box Model, and JS](102/201class3.md)
