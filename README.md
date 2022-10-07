@@ -23,4 +23,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 2 Notes- Basics of HTML, CSS, and JS pt.2](102/201class2.md)
 * [Class 3 Notes- HTML Lists, CSS Box Model, and JS](102/201class3.md)
 * [Class 4 Notes- HTML Links, JS Functions, and Intro to CSS Layout(102/201class4.md)
-* [Class 5 notes- ](102/201class5.md)
+* [Class 5 notes- Images, Colors, and Text](102/201class5.md)
