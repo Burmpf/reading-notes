@@ -25,3 +25,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 4 Notes- HTML Links, JS Functions, and Intro to CSS Layout](102/201class4.md)
 * [Class 5 notes- Images, Colors, and Text](102/201class5.md)
 * [Class 6 Notes- JS objects and the DOM](102/201class6.md)
+* [Class 7 Notes- Constructors and Prototypes](102/201class7.md)
