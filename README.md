@@ -26,5 +26,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 5 Notes- Images, Colors, and Text](102/201class5.md)
 * [Class 6 Notes- JS objects and the DOM](102/201class6.md)
 * [Class 7 Notes- Constructors and Prototypes](102/201class7.md)
-* [Class 8 Notes-](102/201class8.md)
+* [Class 8 Notes-Layouts Using Flexbox](102/201class8.md)
 * [Class 9 Notes- HTML Forms and JS Events](102/201class9.md)
