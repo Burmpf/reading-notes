@@ -28,3 +28,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 7 Notes- Constructors and Prototypes](102/201class7.md)
 * [Class 8 Notes-Layouts Using Flexbox](102/201class8.md)
 * [Class 9 Notes- HTML Forms and JS Events](102/201class9.md)
+* [Class 10 Notes- Debugging](102/201class10.md)
