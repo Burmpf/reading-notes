@@ -35,5 +35,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 14 Notes- Transitions and Transformations](102/201class14.md)
 
 ### 301
-* [Class 1 Notes-](102/301class1.md)
+* [Class 1 Notes-Component Style Architecture](102/301class1.md)
 * [Class 2 Notes- State vs Props](102/301class2.md)
