@@ -37,6 +37,18 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 ### 301
 * [Class 1 Notes-Component Style Architecture](102/301class1.md)
 * [Class 2 Notes- State vs Props](102/301class2.md)
-
+* [Class 3 Notes- Passing Functions](102/301class3.md)
+* [Class 4 Notes- React and Forms](102/301class4.md)
+* [Class 5 Notes- Thinking in React](102/301class5.md)
+* [Class 6 Notes- Node.js](102/301class6.md)
+* [Class 7 Notes- REST](102/301class7.md)
+* [Class 8 Notes- API's](102/301class8.md)
+* [Class 9 Notes- Functional Programming](102/301class9.md)
+* [Class 10 Notes- Memory Storage](102/301class10.md)
+* [Class 11 Notes- MongoDB and Mongoose](102/301class11.md)
+* [Class 12 Notes- CRUD](102/301class12.md)
+* [Class 13 Notes- More CRUD](102/301class13.md)
+* [Class 14 Notes- Diversity and Inclusion](102/301class14.md)
+* [Class 15 Notes- Authentication](102/301class15.md)
 
 ### 401: Python
