@@ -52,3 +52,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 15 Notes- Authentication](301/301class15.md)
 
 ### 401: Python
+* [Prework- Linux Terminal](401-python/prework-command-line-notes.md)
