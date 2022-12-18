@@ -27,3 +27,9 @@ areas for growth-
     Collaboration- same with speaking. I can do it, but I vastly prefer to work alone and will work to improve in this aspect
 
     Estimating- I am awful at guessing how long things will take. I always aggresively extend timelines under fear of setting a quicker expectation and failing to meet it.
+
+
+### Update for 401 python
+
+- not much has changed here. There hasnt been a lot of time or oppertunity to work on shortcomings in a meaningful way yet. I suspect I'll really be able to dig in and work on improving myself once Im out in the workplace daily. 
+- I will say I have made some progress with speaking and collabing. The groups for both of the finals so far have went surprisingly well. Our teams worked great together and we were really able to make projects that stood out against our classmates. Also when I did my piece for the presentation, I was able to really be confident in my role since I had my hand in the creation of the things we were talking about. 
