@@ -54,3 +54,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 ### 401: Python
 * [Prework- Linux Terminal](401-python/prework-command-line-notes.md)
 * [Class 1 Notes- Intro to Python](401-python/401class1.md)
+* [Class 2 Notes-Testing and Modules](401-python/401class2.md)
+* [Class 3 Notes- FIleIO and Exceptions](401-python/401class3.md)
