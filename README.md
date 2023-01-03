@@ -59,7 +59,7 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 4 Notes- Classes, Objects, and Recursion](401/../401-python/401class4.md)
 * [Class 7 Notes- Python Scope and Big O (again)](401/../401-python/401class7.md)
 * [Class 8 Notes- List Comprehension](401/../401-python/401class8.md)
-* []()
+* [JupyterLabs and NumPy](401/../401-python/401class11.md)
 * []()
 * []()
 * []()
