@@ -62,5 +62,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [JupyterLabs and NumPy](401/../401-python/401class11.md)
 * [Panda](401/../401-python/401class12.md)
 * [Linear Regression](401/../401-python/401class13.md)
-* []()
+* [Data Visualization](401/../401-python/401class14.md)
 * []()
