@@ -51,7 +51,7 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Class 14 Notes- Diversity and Inclusion](301/301class14.md)
 * [Class 15 Notes- Authentication](301/301class15.md)
 
-### 401: Python
+### 401- Python
 * [Prework- Linux Terminal](401-python/prework-command-line-notes.md)
 * [Class 1 Notes- Intro to Python](401-python/401class1.md)
 * [Class 2 Notes-Testing and Modules](401-python/401class2.md)
@@ -63,4 +63,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Panda](401/../401-python/401class12.md)
 * [Linear Regression](401/../401-python/401class13.md)
 * [Data Visualization](401/../401-python/401class14.md)
-* []()
+* [Serverless Functions](401/../401-python/401class16.md)
