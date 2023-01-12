@@ -65,3 +65,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Data Visualization](401/../401-python/401class14.md)
 * [Serverless Functions](401/../401-python/401class16.md)
 * [Web Scraping](401/../401-python/401class17.md)
+* [Encryption, Decryption, and Cracking](401/../401-python/401class18.md)
