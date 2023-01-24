@@ -67,3 +67,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Web Scraping](401/../401-python/401class17.md)
 * [Encryption, Decryption, and Cracking](401/../401-python/401class18.md)
 * [Automation](401/../401-python/401class19.md)
+* [Intro to Django](401/../401-python/401class26.md)
+* [Django Models](401/../401-python/401class27.md)
