@@ -69,3 +69,4 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Automation](401/../401-python/401class19.md)
 * [Intro to Django](401/../401-python/401class26.md)
 * [Django Models](401/../401-python/401class27.md)
+* [Django CRUD and Forms](401/../401-python/401class28.md)
