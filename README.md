@@ -76,7 +76,7 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [Authentication & Production Server](401/../401-python/401class33.md)
 * [API DEPLOYMENT](401/401class34.md)
 * [Graphs](401/401class35.md)
-* []()
+* [DS Review](401/../401-python/401class36.md)
 * []()
 * []()
 * []()
