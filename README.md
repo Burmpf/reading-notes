@@ -80,3 +80,5 @@ Hello! My name is Keyan and if youre here, than you're here to see how my coding
 * [React 1](401/../401-python/401class37.md)
 * [React 2](401/../401-python/401class38.md)
 * [React 3](401/../401-python/401class39.md)
+* [Pythonisms](401/../401-python/401class42.md)
+* [ethics in tech](401/../401-python/401class43.md)
